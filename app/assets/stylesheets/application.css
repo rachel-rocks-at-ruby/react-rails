@@ -17,6 +17,9 @@
 body {
 	background-color: #eee;
 	font-family: Source Sans Pro, sans-serif;
+	width: 750px;
+	margin: 60px auto;
+	text-align: center;
 }
 
 h1 {
@@ -26,4 +29,9 @@ h1 {
 
 h3 {
 	color: purple;
+}
+
+hr {
+	margin-top: 25px;
+	width: 100px;
 }
